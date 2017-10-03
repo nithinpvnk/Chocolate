@@ -1,0 +1,6 @@
+framework module Pods_chocolateloadingpage {
+  umbrella header "Pods-chocolateloadingpage-umbrella.h"
+
+  export *
+  module * { export * }
+}
